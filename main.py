@@ -1,5 +1,4 @@
 from detoureur import Detoureur
-from image_edit import Edit
 from tkinter import Tk, filedialog
 from PIL import Image
 
